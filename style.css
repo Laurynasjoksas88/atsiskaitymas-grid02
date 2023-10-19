@@ -1,0 +1,184 @@
+.parent {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+
+}
+
+.parent div {
+    padding: 73px;
+}
+
+
+
+.div1 {
+    grid-area: 1 / 1 / 2 / 2;
+    background-color: red;
+    background: url(/nuotraukos/0e1cf00605082d11da6385459a3a1687.jpg);
+    background-size: cover;
+    background-position: center;
+
+
+}
+
+.div2 {
+    grid-area: 1 / 2 / 2 / 3;
+    background-color: red;
+    background: url(/nuotraukos/16d733c5395313887c8bef37cad6523f.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.div3 {
+    grid-area: 2 / 1 / 3 / 3;
+    background-color: red;
+    background: url(/nuotraukos/08640b34412b64c5be6d0296bc6192cd.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.div4 {
+    grid-area: 6 / 1 / 7 / 2;
+    background-color: red;
+    background: url(/nuotraukos/17ed53e3280d49902aaebb24cc4e6291.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.div5 {
+    grid-area: 6 / 2 / 7 / 3;
+    background-color: red;
+    background: url(/nuotraukos/1894adce2b28f9757e72d360ccbb38ee.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.div6 {
+    grid-area: 3 / 1 / 6 / 3;
+    background-color: red;
+    background: url(/nuotraukos/1adf38fdc4ee9f2895be7f340e772767.jpg);
+    background-size: cover;
+    background-position: center;
+
+
+}
+
+.div7 {
+    grid-area: 1 / 3 / 2 / 4;
+    background-color: red;
+    background: url(/nuotraukos/5016ba505356ea992f3b3b702586d68f.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.div8 {
+    grid-area: 2 / 3 / 4 / 4;
+    background-color: red;
+    background: url(/nuotraukos/299322b79221960e29c2c1d24a939a87.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.div9 {
+    grid-area: 1 / 4 / 3 / 5;
+    background-color: red;
+    background: url(/nuotraukos/3fe82308206d42833ae4d77ed66f0fb3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.div10 {
+    grid-area: 3 / 4 / 4 / 5;
+    background-color: red;
+    background: url(/nuotraukos/498821435726040a731f849a8c9d9244.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.div11 {
+    grid-area: 4 / 3 / 7 / 5;
+    background-color: red;
+    background: url(nuotraukos/942976f5a1d91cbf8e51ab970044b1ae.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.div12 {
+    grid-area: 1 / 5 / 2 / 6;
+    background-color: red;
+    background: url(/nuotraukos/528a481368c82cccce940e1670017492.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.div13 {
+    grid-area: 1 / 6 / 2 / 8;
+    background-color: red;
+    background: url(/nuotraukos/3231e2b6804f3548b3026ce1f845fc76.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.div14 {
+    grid-area: 1 / 8 / 3 / 9;
+    background-color: red;
+    background: url(nuotraukos/8f120cffea198788e158a80bbe97effd.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.div15 {
+    grid-area: 2 / 7 / 3 / 8;
+    background-color: red;
+    background: url(/nuotraukos/91adb39ae535837115b909a3e94cd175.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.div16 {
+    grid-area: 3 / 7 / 7 / 9;
+    background-color: red;
+    background: url(/nuotraukos/d1342030e23c1fc0d0882411c6e9b086.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.div17 {
+    grid-area: 5 / 5 / 7 / 6;
+    background-color: red;
+    background: url(/nuotraukos/ad71b45521f17bd11930d0af260d309f.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.div18 {
+    grid-area: 5 / 6 / 6 / 7;
+    background-color: red;
+    background: url(/nuotraukos/9d4d8032abbb60a95ae9062855998eda.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.div19 {
+    grid-area: 6 / 6 / 7 / 7;
+    background-color: red;
+    background: url(/nuotraukos/d6a5069a4f3ab7d19a69fca4f504fb90.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.div20 {
+    grid-area: 2 / 5 / 5 / 7;
+    background-color: red;
+    background: url(/nuotraukos/e698bad305fecadbbeb175e2d7ab9837.jpg);
+    background-size: cover;
+    background-position: center;
+   
+}
+
